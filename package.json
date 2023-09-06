@@ -1,0 +1,14 @@
+{
+  "name": "json-mock-api",
+  "version": "1.0.0",
+  "description": "get the api data from mock json files",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "taimeem ansari",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
